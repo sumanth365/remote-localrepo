@@ -1,1 +1,3 @@
 print("Hrishi")
+
+print('krish')
